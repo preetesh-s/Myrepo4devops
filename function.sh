@@ -7,5 +7,5 @@ first
 
 source common.sh
 
-echo second function --> 
+echo second function
 add
