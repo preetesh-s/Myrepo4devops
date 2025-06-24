@@ -1,8 +1,10 @@
-x=10
-y=20
+num1=10
+num2=20
 
 
 function add(){
-sum=$((${x}+$y))
+
+sum=$(($num1 + $num2))
+
 echo sum
 }
