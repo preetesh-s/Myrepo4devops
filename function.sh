@@ -5,3 +5,7 @@ function first(){
 #call
 first
 
+source common.sh
+
+echo second function --> 
+add
