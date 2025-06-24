@@ -3,6 +3,6 @@ y=20
 
 
 function add(){
-sum = $(${x} + $y)
+sum=$(${x}+$y)
 echo sum
 }
